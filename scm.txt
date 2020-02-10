@@ -1,0 +1,8 @@
+FRIST TIME IN GIT 
+CODE FOR HELLO WORLD IN CPP .
+#include<iostream>
+using namespace std;
+int main()
+{
+	cout<<"Hello World";
+} 
